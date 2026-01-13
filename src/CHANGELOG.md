@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Organized directory structure with dedicated folders for docs, src, and utils
 - README files in multiple directories for better documentation
 - Text and markdown versions of reports for accessibility
+- License file in src directory only
 
 ### Changed
 - Restructured project from initial flat layout to organized hierarchy

@@ -48,7 +48,7 @@ git-collaboration-project/
 ├── README.md                         # Main project documentation
 ├── PUSH_TO_GITHUB_INSTRUCTIONS.md    # Instructions for pushing to GitHub
 ├── STRUCTURE_REORGANIZATION_SUMMARY.md # Summary of project reorganization
-└── LICENSE                           # Main license file
+└── src/LICENSE                       # License file (in src directory)
 ```
 
 ## Benefits of the New Structure

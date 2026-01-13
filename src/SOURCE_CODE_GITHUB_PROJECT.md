@@ -43,7 +43,7 @@ git-collaboration-project/
 ├── README.md                         # Main project documentation
 ├── PUSH_TO_GITHUB_INSTRUCTIONS.md    # Instructions for pushing to GitHub
 ├── STRUCTURE_REORGANIZATION_SUMMARY.md # Summary of project reorganization
-└── LICENSE                           # Main license file
+└── src/LICENSE                       # License file (in src directory)
 ```
 
 ---
@@ -281,7 +281,7 @@ echo "==========================================="
 - **Node Version**: >=14.0.0
 
 ### 📏 Code Metrics:
-- **Total Files**: 30+ files across organized directories
+- **Total Files**: 22 files across organized directories (excluding .git)
 - **Lines of Code**: ~200 lines of implementation code
 - **Main Script**: index.js
 - **Language**: JavaScript (ES6+) and Bash
@@ -289,10 +289,10 @@ echo "==========================================="
 ### 📋 Documentation Files:
 - **README.md**: Project documentation (main and in subdirectories)
 - **CONTRIBUTING.md**: Contribution guidelines
-- **LICENSE**: Legal terms
+- **LICENSE**: Legal terms (in src/ directory only)
 - **CHANGELOG.md**: Change log
 - **Multiple guides**: In-depth documentation in docs/guides/
-- **Reports**: Various reports in docs/reports/ (English and Indonesian)
+- **Reports**: Various reports in docs/reports/ (English and Indonesian, .md and .txt formats)
 - **Templates**: Pull request templates in docs/templates/
 
 ### 🎯 Features Implemented:

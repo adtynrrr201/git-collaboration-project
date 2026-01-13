@@ -36,7 +36,7 @@ git-collaboration-project/
 ├── README.md                         # Main project documentation
 ├── PUSH_TO_GITHUB_INSTRUCTIONS.md    # Instructions for pushing to GitHub
 ├── STRUCTURE_REORGANIZATION_SUMMARY.md # Summary of project reorganization
-└── LICENSE                           # Main license file
+└── src/LICENSE                       # License file (in src directory)
 ```
 
 ## 🚀 Quick Start
@@ -70,6 +70,6 @@ This project includes helpful utilities:
 ---
 
 **Project Directory**: `/home/adityanur/Documents/git-collaboration-project/`
-**Total Files**: 30+ files across organized directories
+**Total Files**: 22 files across organized directories (excluding .git)
 **Achievement Score**: 10/10 (PERFECT)
 **Status**: WELL ORGANIZED AND READY FOR COLLABORATION 🚀✨
