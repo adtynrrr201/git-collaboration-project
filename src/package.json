@@ -1,0 +1,16 @@
+{
+  "name": "git-collaboration-project",
+  "version": "1.0.0",
+  "description": "A demonstration project for git collaboration practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "collaboration",
+    "documentation"
+  ],
+  "author": "Collaborator",
+  "license": "MIT"
+}
