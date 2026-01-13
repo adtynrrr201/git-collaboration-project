@@ -201,6 +201,11 @@ git-collaboration-project/reports/*.txt
 
 We welcome contributions to this project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
 
+## 🛠️ Tools
+
+This project includes helpful scripts for collaboration:
+- [scripts/git-helper.sh](scripts/git-helper.sh): A utility script to assist with common git operations for team collaboration
+
 ## 🏆 Final Statement
 
 This Git collaboration demonstration project achieves **PERFECT SCORE (10/10)** by showcasing:
