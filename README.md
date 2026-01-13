@@ -59,6 +59,7 @@ This project includes helpful utilities:
 
 - [PULL_REQUEST_TEMPLATE.md](docs/templates/PULL_REQUEST_TEMPLATE.md) - Template for creating pull requests
 - [GIT_COLLABORATION_PRACTICES.md](docs/guides/GIT_COLLABORATION_PRACTICES.md) - Documentation of git collaboration practices demonstrated
+- [STRUCTURE_REORGANIZATION_SUMMARY.md](STRUCTURE_REORGANIZATION_SUMMARY.md) - Summary of project reorganization efforts
 
 ---
 
