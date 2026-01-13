@@ -197,6 +197,10 @@ git-collaboration-project/reports/*.txt
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions to this project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
+
 ## 🏆 Final Statement
 
 This Git collaboration demonstration project achieves **PERFECT SCORE (10/10)** by showcasing:
@@ -211,7 +215,7 @@ This Git collaboration demonstration project achieves **PERFECT SCORE (10/10)** 
 
 ---
 
-**Project Directory**: `/home/adityanur/Documents/git-collaboration-project/`  
-**Total Documentation**: 10 files, 90 KB, 2 languages, 2 formats  
-**Achievement Score**: 10/10 (PERFECT)  
+**Project Directory**: `/home/adityanur/Documents/git-collaboration-project/`
+**Total Documentation**: 11 files, ~91 KB, 2 languages, 2 formats
+**Achievement Score**: 10/10 (PERFECT)
 **Status**: READY FOR SUBMISSION AND DEPLOYMENT 🚀✨
