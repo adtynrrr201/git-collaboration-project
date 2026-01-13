@@ -8,20 +8,6 @@ This repository demonstrates proper Git collaboration practices with an organize
 
 ```
 git-collaboration-project/
-├── 📋 docs/                          # Documentation files
-│   ├── guides/                       # Guides and tutorials
-│   │   ├── CONTRIBUTING.md           # Contribution guidelines
-│   │   └── GIT_COLLABORATION_PRACTICES.md # Git collaboration practices
-│   ├── reports/                      # Reports and analysis
-│   │   ├── ANALISIS_KEMAMPUAN_GIT.md # Capability analysis (Indonesian)
-│   │   ├── DAFTAR_LAPORAN.md         # Report index (Indonesian)
-│   │   ├── EXECUTIVE_SUMMARY_GIT_COLLABORATION.md # Executive summary
-│   │   ├── GIT_COLLABORATION_REPORT_EN.md # English report
-│   │   ├── GIT_COLLABORATION_REPORT.txt # Plain text report
-│   │   ├── EXECUTIVE_SUMMARY_GIT_COLLABORATION.txt # Executive summary (text format)
-│   │   └── LAPORAN_KOLABORASI_GIT.md # Collaboration report (Indonesian)
-│   └── templates/                    # Templates for various purposes
-│       └── PULL_REQUEST_TEMPLATE.md  # Template for pull requests
 ├── 🔧 src/                           # Source code and implementation
 │   ├── README.md                     # Source code documentation
 │   ├── index.js                      # JavaScript implementation
